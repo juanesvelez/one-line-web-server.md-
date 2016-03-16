@@ -32,7 +32,7 @@ $ http-server -p 8000
 ### NodeJS (node-static)
 
 ```shell
-$ npm install -g node-static   # install dependency
+$ npm install -g node-static
 $ static -p 8000
 ```
 
